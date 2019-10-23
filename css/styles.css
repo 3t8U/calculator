@@ -1,0 +1,39 @@
+.btn {
+  border: black;
+  border-radius: 20%;
+  background-color: grey;
+  text-align: center;
+}
+
+.btn-center {
+  text-align: center;
+}
+
+#output {
+  p
+  border: red;
+  font-size: 75px;
+  font-weight: bolder;
+  font-family: monospace;
+  text-decoration-color: red;
+  text-align: center;
+
+}
+
+.answer {
+  border: 10px;
+  border-style: ridge;
+  border-color: red;
+  margin-right: 300px;
+  margin-left: 300px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
+
+}
+
+body {
+  background: radial-gradient(lightgreen, pink, grey);
+  background-attachment: fixed;
+}
